@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SimpleSnakeActivity!</string>
+    <string name="app_name">SimpleSnake</string>
+    <string name="StartButton">Начать игру!</string>
+    <string name="lose">Вы проиграли!</string>
+    <string name="score">Ваш счет:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="rules">Правила игры</string>
+    <string name="title_activity_rules">Правила игры</string>
+    <string name="rule1">Вы управляете змеей. Вы должны собрать как можно больше фруктов. За каждый фрукт Вы получаете 10 очков.</string>
+    <string name="rule2">Нельзя врезаться в стены и хвост, а также выходить за пределы екрана. В подобных случаях - поражение.</string>
+    <string name="rule3">Управляйте акселерометром вашего телефона. Круг в центре поля Вам поможет увидеть как сильно наклонять телефон - для поворота змеи.</string>
+    <string name="rule4">А еще, остерегайтесь мин и бомб. Если их съедите - проигрыш. Когда наберете 15 фруктов(150 очков) появится еще одна бомба на поле. Когда 30 фруктов - еще одна.</string>
+    <string name="rule5">Удачной игры!</string>
+    <string name="share">ShArE!</string>
+    <string name="results">Результаты</string>
+    <string name="best_results">Лучшие результаты</string>
+    <string name="res">li</string>
+
+</resources>
